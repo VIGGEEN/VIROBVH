@@ -1,0 +1,3 @@
+[submodule "ext/libmorton"]
+	path = ext/libmorton
+	url = git@github.com:Forceflow/libmorton.git
